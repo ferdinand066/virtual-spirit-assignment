@@ -1,0 +1,28 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Test Avatar Group Image Component > should component match snapshots 1`] = `
+<div>
+  <div
+    class="_avatar-group-container_cdb978"
+  >
+    <img
+      alt="JG"
+      class="_avatar-group-image_cdb978 _avatar-group-container-child_cdb978 _image-xs_cdb978"
+      role="avatar-image"
+      src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2574&q=80"
+    />
+    <img
+      alt="CL"
+      class="_avatar-group-image_cdb978 _avatar-group-container-child_cdb978 _image-xs_cdb978"
+      role="avatar-image"
+      src="invalid-url"
+    />
+    <div
+      class="_avatar-group-text_cdb978 _image-xs_cdb978"
+      role="total-remaining-people"
+    >
+      +8
+    </div>
+  </div>
+</div>
+`;
